@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[LinkedIn](https://www.linkedin.com/in/sophya-wu/)
 
 #### My GitHub Stats
 [![My GitHub Stats:](https://github-readme-stats.vercel.app/api?username=sophyawu09)](https://github.com/sophyawu09/github-readme-stats)
