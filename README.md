@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[LinkedIn](https://www.linkedin.com/in/sophya-wu/)
+📫 [LinkedIn](https://www.linkedin.com/in/sophya-wu/)
 
-#### My GitHub Stats
-[![My GitHub Stats:](https://github-readme-stats-sophyawu09.vercel.app/api?username=sophyawu09&show_icons=true&theme=solarized-dark)](https://github.com/sophyawu09/github-readme-stats)
+✨[![My GitHub Stats:](https://github-readme-stats-sophyawu09.vercel.app/api?username=sophyawu09&show_icons=true&theme=solarized-dark)](https://github.com/sophyawu09/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-sophyawu09.vercel.app/api/top-langs/?username=sophyawu09)](https://github.com/sophyawu09/github-readme-stats)
+✨[![Top Langs](https://github-readme-stats-sophyawu09.vercel.app/api/top-langs/?username=sophyawu09)](https://github.com/sophyawu09/github-readme-stats)
 
 
