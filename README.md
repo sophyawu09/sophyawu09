@@ -23,6 +23,6 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats-sophyawu09.vercel.app/api?username=sophyawu09&show_icons=true&theme=solarized-dark" />
 </a>
 <a href="https://github.com/sophyawu09/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-sophyawu09.vercel.app/api/top-langs/?username=sophyawu09&layout=compact&langs_count=10&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-sophyawu09.vercel.app/api/top-langs/?username=sophyawu09&layout=compact&langs_count=10&card_width=320&theme=solarized-dark" />
 </a>
 
