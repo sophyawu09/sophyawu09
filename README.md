@@ -14,10 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Profile
 
-📫 [LinkedIn](https://www.linkedin.com/in/sophya-wu/)
+- 📫 [LinkedIn](https://www.linkedin.com/in/sophya-wu/)
+- 💻 [LeetCode](https://leetcode.com/rsophyaw09/)
+<!--
+- 💻 [HackerRank](https://www.hackerrank.com/profile/rsophyaw09)
+- 💻 [CodeSignal](https://app.codesignal.com/profile/rsophyaw09)
+- 💻 [CodeForces](https://codeforces.com/profile/rsophyaw09)
+-->
 
 ---
+## Github Stats
 
 <a href="https://github.com/sophyawu09/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-sophyawu09.vercel.app/api?username=sophyawu09&show_icons=true&theme=monokai" />
